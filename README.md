@@ -15,9 +15,3 @@ Modern web development projects and experiments.
 - TypeScript
 - Tailwind CSS
 - Vite
-# Rebrand
-# Mar update
-# Migration
-# Jun update
-# Sep update
-# Dec update
