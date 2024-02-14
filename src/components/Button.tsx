@@ -8,3 +8,4 @@ children }) => {
   return <button className={`btn-${variant}`}>{children}</button>
 }
 // Jan component
+// Feb */
